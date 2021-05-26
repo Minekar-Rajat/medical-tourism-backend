@@ -1,0 +1,35 @@
+[{
+    "weather": "Dubai has a hot desert climate. Dubai has two distinct seasons – summer and winter. Summer in Dubai begins at the end of April and lasts through the beginning of October. This period is characterized by hot weather, warm winds, and high humidity. Due to the city's close proximity to the sea, the temperatures in Dubai are milder in the summer, relative to other Gulf Cities like Kuwait City and Riyadh. ",
+    "about": "Dubai is a city in the United Arab Emirates known for its ultramodern architecture and its luxury shopping, located in the southeastern end of the Arabian Peninsula on the Persian Gulf. With a total population of more than 9.4 million, the UAE is a federation of seven emirates or sheikdoms, with Abu Dhabi serving as its capital. The destination’s economy is the 31st largest by nominal GDP and remains extremely reliant on oil, with the exception of Dubai’s sheikdom. Tourism plays a vital role in the economy of the United Arab Emirates, with the number of visitors surpassing 10 million tourists per year and with Dubai maintaining the highest share of tourism among all the emirates. The healthcare system is a mix of public and private, with the public system being more of a comprehensive system that cares for the entire patient needs. Meanwhile, the private sector keeps building state of the art facilities and also caters to medical tourism. ",
+    "link": "https://firebasestorage.googleapis.com/v0/b/medical-tourism-2367d.appspot.com/o/country%2Fz16.jpg?alt=media&token=65c72b3e-37f9-4a70-b5f3-55cb2a79baa0",
+    "capital": "Dubai",
+    "currency": "Arab Emirate Dirham",
+    "rank": 9,
+    "name": "Dubai",
+    "inshort": "Dubai is known for its ultramodern architecture and its luxury shopping. It is located at the southeastern end of the Arabian Peninsula on the Persian Gulf.",
+    "timezone": "GMT+4",
+    "language": "Arebic"
+
+}, {
+    "timezone": "GMT+2",
+    "inshort": "Egypt’s land frontiers border Libya, Sudan, and Israel. Egypt’s border with Sudan is notable for two areas: the Hala’ib Triangle, along the Red Sea, and Bir Tawil, which is further inland.",
+    "currency": "Egyptian Pound (EGP).",
+    "language": " Arabic",
+    "name": "Egypt",
+    "rank": 26,
+    "about": "Egypt’s land frontiers border Libya to the west, Sudan to the south, and Israel to the northeast. Egypt’s border with Sudan is notable for two areas, the Hala’ib Triangle along the Red Sea and Bir Tawil further inland, that are subject to differing claims by both countries (see Researcher’s Note). In the north, its Mediterranean coastline is about 620 miles (1,000 km), and in the east, its coastline on the Red Sea and the Gulf of Aqaba is about 1,200 miles (1,900 km).  ‍  The Nile divides the desert plateau through which it flows into two unequal sections — the Western Desert, between the river and the Libyan frontier, and the Eastern Desert, extending to the Suez Canal, the Gulf of Suez, and the Red Sea. Each has a distinctive character, as does the third and smallest of the Egyptian deserts, the Sinai. The Western Desert (a branch of the Libyan Desert) is arid and without wadis, while the Eastern Desert is extensively dissected by wadis and fringed by rugged mountains in the east. The desert of central Sinai is open country, broken by isolated hills and scored by wadis.",
+    "capital": "Cairo",
+    "link": "https://firebasestorage.googleapis.com/v0/b/medical-tourism-2367d.appspot.com/o/country%2F5e9ee2fc85e05510e7e2daa8_Egypt.jpg?alt=media&token=be9be317-03d6-4d5d-95a1-4ef35c16f0d5",
+    "weather": "Most of Egypt's rain falls in the winter months. South of Cairo, rainfall averages around 2-5 mm (0.1 to 0.2 in) per year and at intervals of many years. On a very thin strip of the northern coast, the rainfall can be as high as 410 mm (16.1 in), mostly between October and March. Snow falls on Sinai's mountains and some of the north coastal cities, like Damietta, Baltim and Sidi Barrani."
+}, {
+    "rank": 42,
+    "inshort": "El Salvador is the smallest and most densely populated country in Central America. It is surrounded by Guatemala, Honduras, and the Pacific Ocean",
+    "about": "El Salvador is the smallest and most densely populated country in Central America. It is surrounded by Guatemala, Honduras, and the Pacific Ocean. Unfortunately, El Salvador has a bad reputation for violence and generally unsafe activities; however, there is a strong police presence in tourist areas, and you can request a free police escort during hiking excursions. Most major crime is localized to neighborhoods with no interest to tourists. Travelers should nonetheless take care not to wear flashy jewelry or have an expensive camera out in plain sight.  ‍  El Salvador is a beautiful country with mountains, national parks, volcanoes, and excellent surfing. Such natural wonders, coupled with the country’s pivot toward democracy, can convince people to experience the many wonderful attractions that El Salvador has to offer.",
+    "weather": "El Salvador’s climate is tropical with two seasons: the wet season (May to October) and the dry season (November to April). The temperature depends on the elevation. Coastal areas tend to be hotter, with average temperatures from 72-90 degrees Fahrenheit (22-32 degrees Celsius) year round. The central areas have varying temperatures, which can be as high as 82 degrees Fahrenheit (28 degrees Celsius) and as low as 66 degrees Fahrenheit (19 degrees Celsius).",
+    "timezone": "GMT-6",
+    "name": "El Salvador",
+    "capital": "San Salvador",
+    "currency": "US Dollar",
+    "link": "https://firebasestorage.googleapis.com/v0/b/medical-tourism-2367d.appspot.com/o/country%2F5e9ee3bf2f493e30e16df401_El%20Salvador.jpg?alt=media&token=2b422f7d-9e16-4132-b8a2-b994540a7e6f",
+    "language": "Spanish"
+}]

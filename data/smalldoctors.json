@@ -1,0 +1,113 @@
+[{
+        "experience": "13 yrs Experience",
+        "photo": "Hello",
+        "location": "HSR Layout",
+        "fees": 224,
+        "rating": 4.5,
+        "lang": [
+            "English",
+            "Hindi",
+            "Kannada",
+            "Marathi"
+        ],
+        "education": "MBBS MD(Med),DNB",
+        "edu": [
+            "MBBS",
+            "NDMVPS Medical College,2007",
+            "MD(Medicine)",
+            "MVJ medical college , Bangalore,2012",
+            "Fellowship in Cardiology",
+            "Sri Jaydeva institute of Cardiology , Banglore 2014",
+            "DNB Cardiology",
+            "Manipal Hospital ,Bangalore,2018"
+        ],
+
+
+        "name": "Dr. Anand Manaklal",
+        "password": "pass1234",
+        "passwordConfirm": "pass1234",
+        "email": "anandmanaklal@gmail.com"
+    },
+    {
+        "fees": 424,
+        "photo": "Hello",
+        "lang": [
+            "English",
+            "Hindi",
+            "kannada"
+        ],
+        "location": "whitefield",
+
+        "name": "Dr. Naveen Chandra G. S",
+        "rating": 4.5,
+        "edu": [
+            "MBBS",
+            "kempegowda Institute of Medical Sciences ,Bangalore,2005",
+            "MD (General Medicine)",
+            "Department of Medicine kmc manipal,manipal university ,2009",
+            "DM (Cardiology)",
+            "IPGMER,kolkata,west bengal university,2013"
+        ],
+
+        "education": "MBBS ,MD(Gen Med),DM",
+        "experience": "15 yrs Experience",
+
+        "password": "pass1234",
+        "passwordConfirm": "pass1234",
+        "email": "naveen@gmail.com"
+    },
+    {
+        "experience": "26 yrs Experience",
+        "name": "Dr. Vijay Sai",
+        "photo": "Hello",
+        "education": "MBBS ,MD (Gen Med),DM",
+        "rating": 4.5,
+        "fees": 424,
+        "location": "whitefield",
+        "edu": [
+            "MBBS",
+            "Gulbarga University ,1994",
+            "MD (General Medicine)",
+            "Gulbarga University ,1998",
+            "DNB(Cardiology)",
+            "National Board Examination ,2005"
+        ],
+
+
+        "lang": [
+            "English",
+            "kannada",
+            "Hindi",
+            "Marathi",
+            "Telgu"
+        ],
+        "password": "pass1234",
+        "passwordConfirm": "pass1234",
+        "email": "vijay@gmail.com"
+    },
+    {
+        "experience": "16 yrs Experience",
+        "fees": 240,
+        "photo": "Hello",
+        "location": "Jalahalli west",
+        "name": "Dr. Abhijit Kumar",
+        "edu": [
+            "MBBS",
+            "kolkata Medical College",
+            "DNB",
+            "Sir Ganga Ram Hospital,New Delhi"
+        ],
+        "lang": [
+            "English",
+            "Hindi",
+            "Bengali"
+        ],
+        "rating": 4.5,
+        "education": "MBBS ,DNB(Internal Medicine)",
+
+
+        "password": "pass1234",
+        "passwordConfirm": "pass1234",
+        "email": "abhijit@gmail.com"
+    }
+]
