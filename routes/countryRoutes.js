@@ -9,5 +9,4 @@ router.route('/:id').get( countryController.getcountry);
 //     .route('/:id')
 //     .get(authController.protect, countryController.getcountry)
 module.exports = router;
-
 // authController.protect,
